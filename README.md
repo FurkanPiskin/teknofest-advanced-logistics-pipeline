@@ -40,7 +40,7 @@ Master_Dataset_Tum_Ozellikler_Hazir_V2.xlsx
 Excel rapor  →  (opsiyonel) convert_ml_forecast  →  Talep-tahmini.xlsx
 ```
 
-Kaynak: [`(Atılcak Kod)Canlıya_Alma_v2.ipynb`](./(Atılcak%20Kod)Canlıya_Alma_v2.ipynb)  
+Kaynak: [`(Atılcak Kod)Canlıya_Alma_v2.ipynb`](./(Teknofest_Code.ipynb)  
 Colab not defteri dört işi sırayla yapar: akşam eğitimi → akşam recursive tahmin → sabah eğitimi → sabah recursive tahmin.
 
 ---
