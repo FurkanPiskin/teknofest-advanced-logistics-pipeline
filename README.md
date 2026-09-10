@@ -185,7 +185,7 @@ Eğitim uzun sürebilir: 30 × 3 = 90 XGBoost fit’i vardiya başına.
 Desi-Talep-Tahmini/
 ├── README.md
 ├── (Atılcak Kod)Canlıya_Alma_v2.ipynb
-├── Master_Dataset_Tum_Turkiye.xlsx          # büyük; Git LFS veya release
+├── Master_Dataset_Tum_Turkiye.xlsx          
 ├── Master_Dataset_Tum_Ozellikler_Hazir_V2.xlsx
 ├── 01_target_encoder.pkl
 ├── 01_target_encoder_SABAH.pkl
@@ -193,7 +193,7 @@ Desi-Talep-Tahmini/
 └── xgboost_lojistik_modeli_SABAH.pkl
 ```
 
-Excel ve pickle dosyaları büyükse GitHub’a LFS veya ayrı bir drive/release linki koyun; README’de yolu belirtin.
+
 
 ---
 
